@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiRaIOMeZaSu)](https://github.com/MiRaIOMeZaSu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiRaIOMeZaSu&langs_count=8)](https://github.com/MiRaIOMeZaSu/github-readme-stats)
 <!--
 **MiRaIOMeZaSu/MiRaIOMeZaSu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
